@@ -1,16 +1,18 @@
-## Hi there 👋
+# Pan 🌿
 
-<!--
-**pan-dev-lev/pan-dev-lev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building **Open Reverie** - an open-source platform for persistent AI fantasy experiences.
 
-Here are some ideas to get you started:
+Unlike disposable chatbot conversations, Open Reverie creates living worlds that remember, evolve, and persist.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+🚀 Launching Open Reverie v0.1 - foundational architecture for persistent AI narratives
+
+## Philosophy
+AI experiences should be:
+- **Persistent** - worlds that continue beyond single sessions
+- **Open** - community-owned, not platform-locked
+- **Local-first** - your data, your control
+
+---
+
+📧 pan-dev-lev@proton.me | 🔗 [Open Reverie Repo](link-coming-soon)
