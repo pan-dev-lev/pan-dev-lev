@@ -15,4 +15,4 @@ AI experiences should be:
 
 ---
 
-📧 pan-dev-lev@proton.me | 🔗 [Open Reverie Repo](link-coming-soon)
+📧 pan-dev-lev@proton.me | 🔗 [Open Reverie Repo](github.com/pan-dev-lev/open-reverie)
